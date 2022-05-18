@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790854511564",
+    "firebase_url": "https://smart-ac-controller-a373d.firebaseio.com",
+    "project_id": "smart-ac-controller-a373d",
+    "storage_bucket": "smart-ac-controller-a373d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790854511564:android:caca5fbaeadcff52480b69",
+        "android_client_info": {
+          "package_name": "com.example.smartaccontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790854511564-259i87ojrm91c47adlb16t30mivetske.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE23u2SI321izJDfka61V8WdTwiIZb6kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790854511564-259i87ojrm91c47adlb16t30mivetske.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
